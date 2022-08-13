@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am an aspiring Java Backend Developer.
-📫 How to reach me: ...hem789ant1997@outlook.com
+📫 How to reach me: hem789ant1997@outlook.com
 <!--
 **hemant097/hemant097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

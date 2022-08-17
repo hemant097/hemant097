@@ -1,6 +1,11 @@
 ## Hi there I'm Hemant Sharma 👋
 I am an aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScript.
-📫 How to reach me: hem789ant1997@outlook.com
+I am currently enrolled in a web-development bootcamp at Masai School.
+
+## About Me
+I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into this course.
+Now I am on a path to learn more about backend engineering.
+📫 How to reach me: ________________________________
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
   <img align="left" alt="Hemant's LinkedIN" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -15,12 +20,14 @@ I am an aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScr
   <br />  <br />
   ***Languages and Tools:***
   
-  <code><img height="20" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://img.icons8.com/color/344/html-5--v2.png"></code>
-  <code><img height="20" src="https://img.icons8.com/color/344/css3.png"></code>
+  <code><img height="25" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
+  <code><img height="25" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"  /></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="25" src="https://img.icons8.com/color/344/html-5--v2.png"></code>
+  <code><img height="25" src="https://img.icons8.com/color/344/css3.png"></code>
+  
  
   
   #### GitHub Stats:

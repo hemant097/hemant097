@@ -25,6 +25,8 @@ I am an aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScr
   
   #### GitHub Stats:
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hemant097&hide=stars,prs,issues&count_private=true&show_icons=true&theme=apprentice" alt="hemant_sharma" />
+  
+  Thanks for github-readme-stats [Anurag Hazra](https://github.com/anuraghazra).
 <!--
 **hemant097/hemant097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,10 @@
-## Hi there I'm Hemant Sharma 👋
+## Hi there 👋
 An aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScript.
 I am currently enrolled in a web-development bootcamp at **Masai School**.
 
 ## About Me
 I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into this course.
-Now I am on a path to learn more about backend engineering.
+Now I am on a path to learn more about backend engineering and build projects.
 
 
 📫 How to reach me: You can [Email me](mailto:hem789ant1997@outlook.com) or simply press one of the icons below.

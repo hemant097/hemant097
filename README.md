@@ -8,7 +8,7 @@ Now I am on a path to learn more about backend engineering.
 
 📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press on the icon below.
 
-<a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
+<a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" rel="noopener" style='margin-right:2px'>
   <img align="left" alt="Hemant's LinkedIN" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:hem789ant1997@outlook.com" target="_blank" style='margin-right:10px'>

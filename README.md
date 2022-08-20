@@ -1,12 +1,13 @@
 ## Hi there I'm Hemant Sharma 👋
-I am an aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScript.
+An aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScript.
 I am currently enrolled in a web-development bootcamp at **Masai School**.
 
 ## About Me
 I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into this course.
 Now I am on a path to learn more about backend engineering.
 
-📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press on the icon below.
+
+📫 How to reach me: You can [Email me](mailto:hem789ant1997@outlook.com) or simply press one of the icons below.
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
   <img align="left" alt="Hemant's LinkedIN" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -17,11 +18,17 @@ Now I am on a path to learn more about backend engineering.
   <a href="https://www.instagram.com/noviceanemone97/">
   <img align="left" alt="Hemant's Instagram" height="35px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+  
+  
+  <br />  <br />
+   ***Other Stats:***
+   <p>I like to solve DSA problems on some platforms whenever I get time.</p>
   <a href="https://www.hackerrank.com/hemantsharma097" target="_blank" style='margin-right:10px'>
     <img align="left" src="https://img.icons8.com/windows/344/hackerrank.png" alt="Hemant's email" height="35px" />
   </a>
   
-  <br />  <br />
+  <br><br>
+  
   ***Languages and Tools:***
   
   <code><img height="25" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
@@ -33,7 +40,8 @@ Now I am on a path to learn more about backend engineering.
   <code><img height="25" src="https://img.icons8.com/color/344/css3.png"></code>
   
  
-  
+
+ 
   #### GitHub Stats:
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hemant097&hide=stars,prs,issues&count_private=true&show_icons=true&theme=apprentice" alt="Hemant_sharma" />

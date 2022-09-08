@@ -10,13 +10,13 @@ Now I am on a path to learn more about backend engineering and build projects.
 📫 How to reach me: You can [Email me](mailto:hem789ant1997@outlook.com) or simply press one of the icons below.
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
-  <img align="left" alt="Hemant's LinkedIN" height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hemant's LinkedIN" height="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:hem789ant1997@outlook.com" target="_blank" style='margin-right:10px'>
-    <img align="left" src="https://cdn-icons.flaticon.com/png/512/542/premium/542740.png?token=exp=1660747195~hmac=0018bd5175a9b1f459182d6eb3b02500" alt="Hemant's email" height="35px" />
+    <img align="left" src="https://img.icons8.com/fluency/344/new-post.png" alt="Hemant's email" height="35px" />
   </a>
   <a href="https://www.instagram.com/noviceanemone97/">
-  <img align="left" alt="Hemant's Instagram" height="35px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Hemant's Instagram" height="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
   
   

@@ -1,13 +1,12 @@
 ## Hi there 👋
-An aspiring Backend Developer. I like to work with Java, HTML, CSS, JavaScript.
+An aspiring Backend Developer. I like to work with Java, MySQL, Hibernate, SpringBoot, HTML, CSS, JavaScript.
 I am currently enrolled in a web-development bootcamp at **Masai School**.
 
 ## About Me
-I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into this course.
-Now I am on a path to learn more about backend engineering and build projects.
+I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into development. Initially I learnt some Front End  concepts but later shifted completely to Back-End Development. Now I am on a path to learn more about backend engineering and building projects.
 
 
-📫 How to reach me: You can [Email me](mailto:hem789ant1997@outlook.com) or simply press one of the icons below.
+📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press one of the icons below.
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
   <img align="left" alt="Hemant's LinkedIN" height="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

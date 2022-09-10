@@ -3,7 +3,8 @@ An aspiring Backend Developer. I like to work with Java, MySQL, Hibernate, Sprin
 I am currently enrolled in a web-development bootcamp at **Masai School**.
 
 ## About Me
-I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into development. Initially I learnt some Front End  concepts but later shifted completely to Back-End Development. Now I am on a path to learn more about backend engineering and building projects.
+I was an mechanical engineer but always had an inclination for coding, so after completing my engineering I got into development. Initially I learnt some Front End  concepts but later shifted completely to Back-End Development. Now I am on a path to learn more about backend engineering and building projects. Also looking
+forward to work for an organisation where I can contribute with my skills and also be an integral part in its growth.
 
 
 📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press one of the icons below.

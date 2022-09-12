@@ -32,13 +32,13 @@ forward to work for an organisation where I can contribute with my skills and al
   
   ***Languages and Tools:***
   
-  <code><img height="25" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
-  <code><img height="25" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"  /></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/html-5--v2.png"></code>
-  <code><img height="25" src="https://img.icons8.com/color/344/css3.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"></code>
+  <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring"  /></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/344/html-5--v2.png"></code>
+  <code><img height="50" src="https://img.icons8.com/color/344/css3.png"></code>
   
  
 

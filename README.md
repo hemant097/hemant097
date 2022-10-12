@@ -15,9 +15,6 @@ forward to work for an organisation where I can contribute with my skills and al
 <a href="mailto:hem789ant1997@outlook.com" target="_blank" style='margin-right:10px'>
     <img align="left" src="https://img.icons8.com/fluency/344/new-post.png" alt="Hemant's email" height="35px" />
   </a>
-  <a href="https://www.instagram.com/noviceanemone97/">
-  <img align="left" alt="Hemant's Instagram" height="32px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
   
   
   <br />  <br />

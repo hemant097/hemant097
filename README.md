@@ -42,7 +42,7 @@ forward to work for an organisation where I can contribute with my skills and al
  
   #### GitHub Stats:
   
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hemant097&hide=stars,prs,issues&count_private=true&show_icons=true&theme=apprentice" alt="Hemant_sharma" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hemant097&hide=issues&count_private=true&show_icons=true&theme=apprentice" alt="Hemant_sharma" />
   
   Thanks for github-readme-stats [Anurag Hazra](https://github.com/anuraghazra).
 <!--

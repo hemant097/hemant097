@@ -20,7 +20,7 @@ forward to work for an organisation where I can contribute with my skills and al
   <br />  <br />
   
    ***Other Stats:***
-   <p>I like to solve DSA problems on some platforms whenever I get some time.</p>
+   <p>I like to solve DSA problems on some platforms whenever I get some time. Also I have a 5 star in Java,SQL in HackerRank</p>
   <a href="https://www.hackerrank.com/FW18_1063" target="_blank" style='margin-right:10px'>
     <img align="left" src="https://img.icons8.com/windows/344/hackerrank.png" alt="Hemant's email" height="35px" />
   </a>

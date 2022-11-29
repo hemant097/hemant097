@@ -21,11 +21,11 @@ forward to work for an organisation where I can contribute with my skills and al
   
    ***Other Stats:***
    <p>I like to solve DSA problems on some platforms whenever I get some time. Also I have a 5 star in Java,SQL in HackerRank</p>
-  <a href="https://leetcode.com/hemant097/" target="_blank" style='margin-right:10px'>
-    <img align="left" src="https://img.icons8.com/windows/344/hackerrank.png" alt="Hemant's email" height="35px" />
-  </a>
   <a href="https://www.hackerrank.com/FW18_1063" target="_blank" style='margin-right:10px'>
-    <img align="left" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3521542-2944960.png" alt="Hemant's email" height="35px" />
+    <img align="left" src="https://img.icons8.com/windows/344/hackerrank.png" alt="HackerRank" height="35px" />
+  </a>
+  <a href="https://leetcode.com/hemant097/" target="_blank" style='margin-right:10px'>
+    <img align="left" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3521542-2944960.png" alt="LeetCode" height="35px" />
   </a>
   
   <br><br>

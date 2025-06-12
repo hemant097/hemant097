@@ -10,7 +10,7 @@ forward to work for an organisation where I can contribute with my skills and al
 📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press one of the icons below.
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
-  <img align="left" alt="Hemant's LinkedIN" height="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  My LinkedIn
 </a>
 <a href="mailto:hem789ant1997@outlook.com" target="_blank" style='margin-right:10px'>
     <img align="left" src="https://img.icons8.com/fluency/344/new-post.png" alt="Hemant's email" height="35px" />

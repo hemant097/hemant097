@@ -9,7 +9,7 @@ I was an mechanical engineer but always had an inclination for coding, so after 
 📫 How to reach me: You can email me @hem789ant1997@outlook.com or simply press one of the icons below.
 
 <a href="https://www.linkedin.com/in/hemantsharma097/" target="_blank" style='margin-right:2px'>
-  My LinkedIn
+  <img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Hemant's LinkedIn" height="35px"/>
 </a>
 <a href="mailto:hem789ant1997@outlook.com" target="_blank" style='margin-right:10px'>
     <img align="left" src="https://img.icons8.com/fluency/344/new-post.png" alt="Hemant's email" height="35px" />

@@ -38,7 +38,8 @@ I was an mechanical engineer but always had an inclination for coding, so after 
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="50" src="https://img.icons8.com/color/344/html-5--v2.png"></code>
   <code><img height="50" src="https://img.icons8.com/color/344/css3.png"></code>
-  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"</code>
+  <code><img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
+ 
   
  
 
